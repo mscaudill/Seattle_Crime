@@ -57,6 +57,17 @@ coverage.xml
 
 # Django stuff:
 *.log
+<<<<<<< HEAD
+=======
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+>>>>>>> 0ac20f6ed0eb6ff293a6e4238dde7430d6dc6914
 
 # Sphinx documentation
 docs/_build/
@@ -64,6 +75,30 @@ docs/_build/
 # PyBuilder
 target/
 
+<<<<<<< HEAD
 #Ipython Notebook
 .ipynb_checkpoints
 
+=======
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+>>>>>>> 0ac20f6ed0eb6ff293a6e4238dde7430d6dc6914
