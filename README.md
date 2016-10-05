@@ -3,9 +3,7 @@
 <img src =
 "https://github.com/mscaudill/Seattle_Crime/blob/master/data/choropleth.png" height="500" align="left">
 
-This python project analyzes the number of assault offenses in the city of Seattle for the last 7 years. The api endpoint for the data is 
-[here](https://dev.socrata.com/foundry/data.seattle.gov/y7pv-r3kh) for this
-project is available through the Seattle open data API provided by Socrata.
+This python project analyzes the number of assault offenses in the city of Seattle for the last 7 years. The Seattle open data api endpoint for the data used in this project is  [here](https://dev.socrata.com/foundry/data.seattle.gov/y7pv-r3kh).
 
 ______
 
