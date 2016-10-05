@@ -14,9 +14,11 @@ The Seattle police department records the time and location(latitude, longitude)
 
 First, we find that assaults are correlated with a subset of the 51 non-assault offenses. We build a model to predict the number of assaults(response) given this subset of offenses (predictors).
 
-Second, we find that their are sustained periods of time where assaults are
+Second, we find that there are sustained periods of time where assaults are
 high or low in specific districts. We model this timecourse
 to make a prediction for the number of assaults on a month-by-month basis.
+
+Corrections and suggestions are always welcome!
 
 ## Dependencies
 [Jupyter](http://jupyter.org/)<br>
