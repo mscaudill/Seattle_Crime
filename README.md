@@ -1,7 +1,7 @@
 # Seattle_Crime: Analysis of crimes in the city of Seattle
 
 <img src =
-"https://github.com/mscaudill/Seattle_Crime/blob/master/data/choropleth.pdf"
+"https://github.com/mscaudill/Seattle_Crime/blob/master/data/choropleth.png"
 height="500" align="left">
 
 This project analyzes the number of assault offenses in the city of Seattle
